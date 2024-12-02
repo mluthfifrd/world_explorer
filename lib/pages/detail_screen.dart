@@ -50,7 +50,7 @@ class _DetailMobilePageState extends State<DetailMobilePage> {
                   bottomLeft: Radius.circular(30),
                   bottomRight: Radius.circular(30),
                 ),
-                child: Image.asset(
+                child: Image.network(
                   width: 300,
                   height: 400,
                   widget.place.assetsImages,
@@ -110,7 +110,8 @@ class _DetailMobilePageState extends State<DetailMobilePage> {
                                 borderRadius: const BorderRadius.all(
                                   Radius.circular(20),
                                 ),
-                                child: Image.asset(widget.place.images[index]),
+                                child:
+                                    Image.network(widget.place.images[index]),
                               ),
                             );
                           },
@@ -231,7 +232,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
                                                         const BorderRadius.all(
                                                       Radius.circular(20),
                                                     ),
-                                                    child: Image.asset(widget
+                                                    child: Image.network(widget
                                                         .place.images[index]),
                                                   ),
                                                 );
@@ -257,7 +258,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
                           bottomLeft: Radius.circular(30),
                           bottomRight: Radius.circular(30),
                         ),
-                        child: Image.asset(
+                        child: Image.network(
                           widget.place.assetsImages,
                           fit: BoxFit.cover,
                         ),

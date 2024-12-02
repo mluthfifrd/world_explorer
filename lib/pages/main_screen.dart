@@ -126,7 +126,7 @@ class _ListViewItemState extends State<ListViewItem> {
                         children: <Widget>[
                           ClipRRect(
                             borderRadius: BorderRadius.circular(15.0),
-                            child: Image.asset(
+                            child: Image.network(
                               place.assetsImages,
                               fit: BoxFit.cover,
                               width: 300,
@@ -246,7 +246,7 @@ class _ListViewItemState extends State<ListViewItem> {
                                 const BorderRadius.all(Radius.circular(30.0)),
                             child: Padding(
                               padding: const EdgeInsets.all(8.0),
-                              child: Image.asset(
+                              child: Image.network(
                                 place.assetsImages,
                                 fit: BoxFit.cover,
                               ),
@@ -392,7 +392,7 @@ class GridViewItem extends StatelessWidget {
                               width: MediaQuery.of(context).size.width,
                               child: Padding(
                                 padding: const EdgeInsets.all(8.0),
-                                child: Image.asset(
+                                child: Image.network(
                                   place.assetsImages,
                                   fit: BoxFit.cover,
                                 ),
@@ -502,7 +502,7 @@ class GridViewItem extends StatelessWidget {
                               width: MediaQuery.of(context).size.width,
                               child: Padding(
                                 padding: const EdgeInsets.all(8.0),
-                                child: Image.asset(
+                                child: Image.network(
                                   place.assetsImages,
                                   fit: BoxFit.cover,
                                 ),

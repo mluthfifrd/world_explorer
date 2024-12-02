@@ -26,12 +26,13 @@ var worldExplorePlacesList = [
     country: 'Slovenia',
     city: 'Bled',
     location: 'Bled, Slovenia',
-    assetsImages: 'images/bled_castle_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bled_castle_1.jpg',
     images: [
-      'images/bled_castle_1.jpg',
-      'images/bled_castle_2.jpg',
-      'images/bled_castle_3.jpg',
-      'images/bled_castle_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bled_castle_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bled_castle_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bled_castle_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bled_castle_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -41,12 +42,13 @@ var worldExplorePlacesList = [
     country: 'Austria',
     city: 'Hallstatt',
     location: 'Hallstatt, Austria',
-    assetsImages: 'images/hallstatt_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_1.jpg',
     images: [
-      'images/hallstatt_1.jpg',
-      'images/hallstatt_2.jpg',
-      'images/hallstatt_3.jpg',
-      'images/hallstatt_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -56,12 +58,13 @@ var worldExplorePlacesList = [
     country: 'France',
     city: 'Colmar',
     location: 'Colmar, France',
-    assetsImages: 'images/colmar_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/colmar_1.jpg',
     images: [
-      'images/colmar_1.jpg',
-      'images/colmar_2.jpg',
-      'images/colmar_3.jpg',
-      'images/colmar_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/colmar_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/colmar_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/colmar_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/colmar_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -71,12 +74,13 @@ var worldExplorePlacesList = [
     country: 'Netherlands',
     city: 'Giethoorn',
     location: 'Giethoorn, Netherlands',
-    assetsImages: 'images/giethoorn_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/giethoorn_1.jpg',
     images: [
-      'images/giethoorn_1.jpg',
-      'images/giethoorn_2.jpg',
-      'images/giethoorn_3.jpg',
-      'images/giethoorn_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/giethoorn_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/giethoorn_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/giethoorn_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/giethoorn_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -86,12 +90,13 @@ var worldExplorePlacesList = [
     country: 'Spain',
     city: 'Albarracín',
     location: 'Albarracín, Spain',
-    assetsImages: 'images/albarracin_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_1.jpg',
     images: [
-      'images/albarracin_1.jpg',
-      'images/albarracin_2.jpg',
-      'images/albarracin_3.jpg',
-      'images/albarracin_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -101,12 +106,13 @@ var worldExplorePlacesList = [
     country: 'Norway',
     city: 'Reine',
     location: 'Reine, Norway',
-    assetsImages: 'images/reine_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/reine_1.jpg',
     images: [
-      'images/reine_1.jpg',
-      'images/reine_2.jpg',
-      'images/reine_3.jpg',
-      'images/reine_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/reine_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/reine_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/reine_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/reine_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -116,12 +122,13 @@ var worldExplorePlacesList = [
     country: 'Germany',
     city: 'Rothenburg ob der Tauber',
     location: 'Rothenburg ob der Tauber, Germany',
-    assetsImages: 'images/rothenburg_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_1.jpg',
     images: [
-      'images/rothenburg_1.jpg',
-      'images/rothenburg_2.jpg',
-      'images/rothenburg_3.jpg',
-      'images/rothenburg_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -131,12 +138,13 @@ var worldExplorePlacesList = [
     country: 'Italy',
     city: 'Norcia',
     location: 'Castelluccio, Umbria, Italy',
-    assetsImages: 'images/castelluccio_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_1.jpg',
     images: [
-      'images/castelluccio_1.jpg',
-      'images/castelluccio_2.jpg',
-      'images/castelluccio_3.jpg',
-      'images/castelluccio_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -146,12 +154,13 @@ var worldExplorePlacesList = [
     country: 'Portugal',
     city: 'Sintra',
     location: 'Sintra, Portugal',
-    assetsImages: 'images/sintra_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/sintra_1.jpg',
     images: [
-      'images/sintra_1.jpg',
-      'images/sintra_2.jpg',
-      'images/sintra_3.jpg',
-      'images/sintra_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/sintra_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/sintra_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/sintra_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/sintra_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -161,12 +170,13 @@ var worldExplorePlacesList = [
     country: 'Czech Republic',
     city: 'Cesky Krumlov',
     location: 'Cesky Krumlov, Czech Republic',
-    assetsImages: 'images/cesky_krumlov_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_1.jpg',
     images: [
-      'images/cesky_krumlov_1.jpg',
-      'images/cesky_krumlov_2.jpg',
-      'images/cesky_krumlov_3.jpg',
-      'images/cesky_krumlov_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_4.jpg',
     ],
   ),
 ];
@@ -179,12 +189,13 @@ var populerWoeldExplorePlacesList = [
     country: 'Austria',
     city: 'Hallstatt',
     location: 'Hallstatt, Austria',
-    assetsImages: 'images/hallstatt_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_1.jpg',
     images: [
-      'images/hallstatt_1.jpg',
-      'images/hallstatt_2.jpg',
-      'images/hallstatt_3.jpg',
-      'images/hallstatt_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/hallstatt_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -194,12 +205,13 @@ var populerWoeldExplorePlacesList = [
     country: 'Spain',
     city: 'Albarracín',
     location: 'Albarracín, Spain',
-    assetsImages: 'images/albarracin_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_1.jpg',
     images: [
-      'images/albarracin_1.jpg',
-      'images/albarracin_2.jpg',
-      'images/albarracin_3.jpg',
-      'images/albarracin_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/albarracin_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -209,12 +221,13 @@ var populerWoeldExplorePlacesList = [
     country: 'Germany',
     city: 'Rothenburg ob der Tauber',
     location: 'Rothenburg ob der Tauber, Germany',
-    assetsImages: 'images/rothenburg_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_1.jpg',
     images: [
-      'images/rothenburg_1.jpg',
-      'images/rothenburg_2.jpg',
-      'images/rothenburg_3.jpg',
-      'images/rothenburg_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/rothenburg_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -224,12 +237,13 @@ var populerWoeldExplorePlacesList = [
     country: 'Italy',
     city: 'Norcia',
     location: 'Castelluccio, Umbria, Italy',
-    assetsImages: 'images/castelluccio_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_1.jpg',
     images: [
-      'images/castelluccio_1.jpg',
-      'images/castelluccio_2.jpg',
-      'images/castelluccio_3.jpg',
-      'images/castelluccio_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/castelluccio_4.jpg',
     ],
   ),
   WorldExplorePlace(
@@ -239,12 +253,13 @@ var populerWoeldExplorePlacesList = [
     country: 'Czech Republic',
     city: 'Cesky Krumlov',
     location: 'Cesky Krumlov, Czech Republic',
-    assetsImages: 'images/cesky_krumlov_1.jpg',
+    assetsImages:
+        'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_1.jpg',
     images: [
-      'images/cesky_krumlov_1.jpg',
-      'images/cesky_krumlov_2.jpg',
-      'images/cesky_krumlov_3.jpg',
-      'images/cesky_krumlov_4.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_1.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_2.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_3.jpg',
+      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/cesky_krumlov_4.jpg',
     ],
   ),
 ];

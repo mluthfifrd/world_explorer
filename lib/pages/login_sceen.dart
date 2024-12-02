@@ -56,9 +56,11 @@ class _BuildMobileLayout extends State<BuildMobileLayout> {
       child: Container(
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
-        decoration: const BoxDecoration(
+        decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/bg_initial.jpg'),
+            image: NetworkImage(
+              'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bg_initial.jpg',
+            ),
             fit: BoxFit.cover,
             opacity: 1,
           ),
@@ -87,14 +89,6 @@ class _BuildMobileLayout extends State<BuildMobileLayout> {
                         ),
                       ],
                     ),
-                    // Row(
-                    //   mainAxisAlignment: MainAxisAlignment.center,
-                    //   children: [
-                    //     Image.asset('images/bg_login.png',
-                    //         width: 300, height: 300),
-                    //   ],
-                    // ),
-                    // const SizedBox(height: 20),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       mainAxisSize: MainAxisSize.min,
@@ -248,7 +242,8 @@ class _BuildTabletLayout extends State<BuildWebLayout> {
               height: MediaQuery.of(context).size.height,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('images/bg_initial.jpg'),
+                  image: NetworkImage(
+                      'https://raw.githubusercontent.com/mluthfifrd/world_explorer/refs/heads/main/images/bg_initial.jpg'),
                   fit: BoxFit.cover,
                   opacity: 1,
                 ),
@@ -281,14 +276,6 @@ class _BuildTabletLayout extends State<BuildWebLayout> {
                                 ),
                               ],
                             ),
-                            // Row(
-                            //   mainAxisAlignment: MainAxisAlignment.center,
-                            //   children: [
-                            //     Image.asset('images/bg_login.png',
-                            //         width: 300, height: 300),
-                            //   ],
-                            // ),
-                            // const SizedBox(height: 20),
                             Row(
                               mainAxisAlignment: MainAxisAlignment.center,
                               mainAxisSize: MainAxisSize.min,
