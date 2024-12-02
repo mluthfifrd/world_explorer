@@ -46,7 +46,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -57,52 +57,6 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-  assets:
-    - images/bg_login.png
-    - images/google.png
-    - images/facebook.png
-    - images/x.png
-    - images/bg_initial.jpg
-    - images/bled_castle_1.jpg
-    - images/bled_castle_2.jpg
-    - images/bled_castle_3.jpg
-    - images/bled_castle_4.jpg
-    - images/hallstatt_1.jpg
-    - images/hallstatt_2.jpg
-    - images/hallstatt_3.jpg
-    - images/hallstatt_4.jpg
-    - images/colmar_1.jpg
-    - images/colmar_2.jpg
-    - images/colmar_3.jpg
-    - images/colmar_4.jpg
-    - images/giethoorn_1.jpg
-    - images/giethoorn_2.jpg
-    - images/giethoorn_3.jpg
-    - images/giethoorn_4.jpg
-    - images/albarracin_1.jpg
-    - images/albarracin_2.jpg
-    - images/albarracin_3.jpg
-    - images/albarracin_4.jpg
-    - images/reine_1.jpg
-    - images/reine_2.jpg
-    - images/reine_3.jpg
-    - images/reine_4.jpg
-    - images/rothenburg_1.jpg
-    - images/rothenburg_2.jpg
-    - images/rothenburg_3.jpg
-    - images/rothenburg_4.jpg
-    - images/castelluccio_1.jpg
-    - images/castelluccio_2.jpg
-    - images/castelluccio_3.jpg
-    - images/castelluccio_4.jpg
-    - images/sintra_1.jpg
-    - images/sintra_2.jpg
-    - images/sintra_3.jpg
-    - images/sintra_4.jpg
-    - images/cesky_krumlov_1.jpg
-    - images/cesky_krumlov_2.jpg
-    - images/cesky_krumlov_3.jpg
-    - images/cesky_krumlov_4.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
